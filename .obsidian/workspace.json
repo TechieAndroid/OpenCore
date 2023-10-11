@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dell XPS 13 9365/lspci.md",
+                "file": "Dell XPS 13 9365/lscpu.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dell XPS 13 9365/lspci.md",
+                "file": "Dell XPS 13 9365/lscpu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dell XPS 13 9365/lspci.md",
+                "file": "Dell XPS 13 9365/lscpu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dell XPS 13 9365/lspci.md"
+                "file": "Dell XPS 13 9365/lscpu.md"
               }
             }
           }
@@ -161,10 +161,12 @@
   },
   "active": "f7a82cc95902fd09",
   "lastOpenFiles": [
+    "Dell XPS 13 9365/lsusb.md",
+    "Dell XPS 13 9365/lscpu.md",
+    "Dell XPS 13 9365/lspci.md",
     "Dell XPS 13 9365/USB/com.apple.recovery.boot/BaseSystem.chunklist",
     "Dell XPS 13 9365/USB/com.apple.recovery.boot/BaseSystem.dmg",
     "Dell XPS 13 9365/lspci -v.md",
-    "Dell XPS 13 9365/lspci.md",
     "Dell XPS 13 9365/lspci -vv.md",
     "Dell XPS 13 9365/lspci -vvv.md",
     "Dell XPS 13 9365/USB/OC",
