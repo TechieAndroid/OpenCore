@@ -11,11 +11,28 @@
             "id": "e83f0d22025cb624",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dell XPS 13 9365/lspci -vv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7a82cc95902fd09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dell XPS 13 9365/lspci.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dell XPS 13 9365/lspci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dell XPS 13 9365/lspci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dell XPS 13 9365/lspci.md"
+              }
             }
           }
         ]
@@ -138,9 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e83f0d22025cb624",
+  "active": "f7a82cc95902fd09",
   "lastOpenFiles": [
-    "Readme.md.md",
-    "Readme.md"
+    "Dell XPS 13 9365/USB/com.apple.recovery.boot/BaseSystem.chunklist",
+    "Dell XPS 13 9365/USB/com.apple.recovery.boot/BaseSystem.dmg",
+    "Dell XPS 13 9365/lspci -v.md",
+    "Dell XPS 13 9365/lspci.md",
+    "Dell XPS 13 9365/lspci -vv.md",
+    "Dell XPS 13 9365/lspci -vvv.md",
+    "Dell XPS 13 9365/USB/OC",
+    "Dell XPS 13 9365/USB/EFI",
+    "Dell XPS 13 9365/USB/com.apple.recovery.boot",
+    "Dell XPS 13 9365/USB",
+    "Dell XPS 13 9365/New folder",
+    "Dell XPS 13 9365/com.apple.recovery.boot/BaseSystem.dmg",
+    "Dell XPS 13 9365/com.apple.recovery.boot/BaseSystem.chunklist",
+    "Dell XPS 13 9365/com.apple.recovery.boot",
+    "Readme.md",
+    "Readme.md.md"
   ]
 }
