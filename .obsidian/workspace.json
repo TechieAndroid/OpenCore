@@ -159,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7a82cc95902fd09",
+  "active": "cd095fc75b3c5f06",
   "lastOpenFiles": [
+    "Dell XPS 13 9365/lsusb -v.md",
+    "Dell XPS 13 9365/dmesg.md",
     "Dell XPS 13 9365/lspci.md",
     "Dell XPS 13 9365/lspci -v.md",
     "Dell XPS 13 9365/lspci -vv.md",
