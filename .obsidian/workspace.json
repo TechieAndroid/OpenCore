@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dell XPS 13 9365/lscpu.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dell XPS 13 9365/lspci -vv.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dell XPS 13 9365/lspci -vv.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dell XPS 13 9365/lspci -vv.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -159,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd095fc75b3c5f06",
+  "active": "f7a82cc95902fd09",
   "lastOpenFiles": [
+    "Dell XPS 13 9365/lspci -vv.md",
     "Dell XPS 13 9365/lsusb -v.md",
     "Dell XPS 13 9365/dmesg.md",
     "Dell XPS 13 9365/lspci.md",
     "Dell XPS 13 9365/lspci -v.md",
-    "Dell XPS 13 9365/lspci -vv.md",
     "Dell XPS 13 9365/lspci -vvv.md",
     "Dell XPS 13 9365/lsusb.md",
     "Readme.md",
