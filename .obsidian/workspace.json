@@ -161,14 +161,15 @@
   },
   "active": "f7a82cc95902fd09",
   "lastOpenFiles": [
-    "Dell XPS 13 9365/lsusb.md",
-    "Dell XPS 13 9365/lscpu.md",
     "Dell XPS 13 9365/lspci.md",
-    "Dell XPS 13 9365/USB/com.apple.recovery.boot/BaseSystem.chunklist",
-    "Dell XPS 13 9365/USB/com.apple.recovery.boot/BaseSystem.dmg",
     "Dell XPS 13 9365/lspci -v.md",
     "Dell XPS 13 9365/lspci -vv.md",
     "Dell XPS 13 9365/lspci -vvv.md",
+    "Dell XPS 13 9365/lsusb.md",
+    "Readme.md",
+    "Dell XPS 13 9365/lscpu.md",
+    "Dell XPS 13 9365/USB/com.apple.recovery.boot/BaseSystem.chunklist",
+    "Dell XPS 13 9365/USB/com.apple.recovery.boot/BaseSystem.dmg",
     "Dell XPS 13 9365/USB/OC",
     "Dell XPS 13 9365/USB/EFI",
     "Dell XPS 13 9365/USB/com.apple.recovery.boot",
@@ -177,7 +178,6 @@
     "Dell XPS 13 9365/com.apple.recovery.boot/BaseSystem.dmg",
     "Dell XPS 13 9365/com.apple.recovery.boot/BaseSystem.chunklist",
     "Dell XPS 13 9365/com.apple.recovery.boot",
-    "Readme.md",
     "Readme.md.md"
   ]
 }
