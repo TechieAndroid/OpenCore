@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e83f0d22025cb624",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dell XPS 13 9365/lspci -vv.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f7a82cc95902fd09",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,43 +161,51 @@
   },
   "active": "e7f56c3bddc92cbc",
   "lastOpenFiles": [
-    "Dell XPS 13 9365/usb.json",
-    "Dell XPS 13 9365/Kexts/UTBMap.kext/Contents/Info.plist",
-    "Dell XPS 13 9365/Kexts/UTBMap.kext/Contents",
-    "Dell XPS 13 9365/Kexts/UTBMap.kext",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/VoodooInputTransducer.h",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/VoodooInputMessages.h",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/VoodooInputEvent.h",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/MultitouchHelpers.h",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/MacOS/VoodooPS2Trackpad",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/MacOS/VoodooPS2Mouse",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/HEDT_X58_Nehalem+Westmere_MacPro5,1.plist",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/HEDT_X79_SandyBridge+IvyBridge-E_iMac6,1.plist",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/Desktop_05thGen_Broadwell_iMac16,2.plist",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/Desktop_08th-9thGen_Coffee_Lake_iMac19,1_Z390.plist",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/Desktop_01stGen_Lynnfield_Clarkdale_MacPro6,1.plist",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/HEDT_X58_Nehalem+Westmere_MacPro5,1_HP.plist",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/Desktop_08th-9thGen_Coffee_Lake_iMac19,1_.plist",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/README.md",
+    "Dell XPS 13 9365/Tools/Config_Templates/__MACOSX/Config_Templates",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/HEDT_X99_Broadwell-E_iMacPro1,1.plist",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/HEDT_X79_SandyBridge+IvyBridge-E_iMac6,1_Dell.plist",
+    "Dell XPS 13 9365/Tools/Config_Templates/Config_Templates/HEDT_X58_Nehalem+Westmere_MacPro5,1_Dell.plist",
+    "Dell XPS 13 9365/Tools/x86_64-pc-windows-gnu/README.md",
+    "Dell XPS 13 9365/Tools/windows_octool/README.md",
+    "Dell XPS 13 9365/lsusb lspci and dmesg/lsusb.md",
+    "Dell XPS 13 9365/lsusb lspci and dmesg/lsusb -v.md",
+    "Dell XPS 13 9365/lsusb lspci and dmesg/lspci.md",
+    "Dell XPS 13 9365/lsusb lspci and dmesg/lspci -vvv.md",
+    "Dell XPS 13 9365/lsusb lspci and dmesg/lspci -vv.md",
+    "Dell XPS 13 9365/lsusb lspci and dmesg/lspci -v.md",
+    "Dell XPS 13 9365/lsusb lspci and dmesg/lscpu.md",
+    "Dell XPS 13 9365/lsusb lspci and dmesg/dmesg.md",
+    "Dell XPS 13 9365/Tools/OCAT-Win64/Database/EFI/OC/Resources/Font/Font_2x.png",
+    "Dell XPS 13 9365/Tools/OCAT-Win64/Database/EFI/OC/Resources/Font/Font_1x.png",
+    "Dell XPS 13 9365/Tools/OCAT-Win64/Database/preset/README.md",
+    "Dell XPS 13 9365/Tools/OCAT-Win64/Database/BaseConfigs/Instructions_Intel.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/ShimUtils/README.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/ocvalidate/README.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/macserial/README.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/macserial/FORMAT.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/macrecovery/README.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/LogoutHook/README.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/LegacyBoot/README.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/EnableGop/UEFITool_Inserted_Screenshot.png",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/EnableGop/README.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Utilities/FindSerialPort/README.md",
+    "Dell XPS 13 9365/Tools/OpenCore-0.9.5-RELEASE/Docs/Changelog.md",
+    "Dell XPS 13 9365/summer-embr-xample-DELL-XPS13-9360-master/DELL-XPS13-9360-master/EFI/OC/Resources/Font/Font_2x.png",
+    "Dell XPS 13 9365/summer-embr-xample-DELL-XPS13-9360-master/DELL-XPS13-9360-master/EFI/OC/Resources/Font/Font_1x.png",
+    "Dell XPS 13 9365/summer-embr-xample-DELL-XPS13-9360-master/DELL-XPS13-9360-master/README.md",
+    "Dell XPS 13 9365/OCAT-Win64/Database/EFI/OC/Resources/Font/Font_2x.png",
+    "Dell XPS 13 9365/OCAT-Win64/Database/EFI/OC/Resources/Font/Font_1x.png",
+    "Dell XPS 13 9365/OCAT-Win64/Database/preset/README.md",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Resources/Font/Font_2x.png",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Resources/Font/Font_1x.png",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/README.md",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master/DELL-XPS13-9360-master/EFI/OC/Resources/Font/Font_2x.png",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master/DELL-XPS13-9360-master/EFI/OC/Resources/Font/Font_1x.png",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master/DELL-XPS13-9360-master/README.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/FindSerialPort/README.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/macrecovery/README.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/LogoutHook/README.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/ocvalidate/README.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/ShimUtils/README.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/macserial/FORMAT.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/macserial/README.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/LegacyBoot/README.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/EnableGop/README.md",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Utilities/EnableGop/UEFITool_Inserted_Screenshot.png",
-    "Dell XPS 13 9365/OpenCore-0.9.5-RELEASE/Docs/Changelog.md",
-    "Dell XPS 13 9365/lsusb -v.md",
-    "Dell XPS 13 9365/lsusb.md",
-    "Dell XPS 13 9365/lspci -vvv.md",
-    "Dell XPS 13 9365/lspci -vv.md",
-    "Dell XPS 13 9365/lspci -v.md",
-    "Dell XPS 13 9365/lspci.md",
-    "Readme.md",
-    "Dell XPS 13 9365/dmesg.md",
-    "Dell XPS 13 9365/lscpu.md",
-    "Readme.md.md"
+    "Dell XPS 13 9365/DELL-XPS13-9360-master/DELL-XPS13-9360-master/EFI/OC/Resources/Font/Font_2x.png"
   ]
 }
