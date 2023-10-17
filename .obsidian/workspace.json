@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7f56c3bddc92cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,8 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7a82cc95902fd09",
+  "active": "e7f56c3bddc92cbc",
   "lastOpenFiles": [
+    "Dell XPS 13 9365/usb.json",
+    "Dell XPS 13 9365/Kexts/UTBMap.kext/Contents/Info.plist",
+    "Dell XPS 13 9365/Kexts/UTBMap.kext/Contents",
+    "Dell XPS 13 9365/Kexts/UTBMap.kext",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/VoodooInputTransducer.h",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/VoodooInputMessages.h",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch/VoodooInputEvent.h",
@@ -168,10 +184,6 @@
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/MacOS/VoodooPS2Trackpad",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/MacOS/VoodooPS2Mouse",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/_CodeSignature/CodeResources",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Resources/VoodooInputMultitouch",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/MacOS/VoodooInput",
-    "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext/Contents/_CodeSignature/CodeResources",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Resources/Font/Font_2x.png",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/EFI/OC/Resources/Font/Font_1x.png",
     "Dell XPS 13 9365/DELL-XPS13-9360-master-summer-emebr/DELL-XPS13-9360-master/README.md",
