@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Dell XPS 13 9365/lsusb lspci and dmesg/dmesg.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Dell XPS 13 9365/lsusb lspci and dmesg/dmesg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Dell XPS 13 9365/lsusb lspci and dmesg/dmesg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Dell XPS 13 9365/lsusb lspci and dmesg/dmesg.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "e7f56c3bddc92cbc",
   "lastOpenFiles": [
+    "Readme.md",
     "Dell XPS 13 9365/Schematic/dell_xps13_9365/dell5.png",
     "Dell XPS 13 9365/Schematic/dell_xps13_9365/dell8.png",
     "Dell XPS 13 9365/Schematic/dell_xps13_9365/dell9.png",
@@ -171,7 +172,6 @@
     "Dell XPS 13 9365/Schematic/dell_xps13_9365/dell2.png",
     "Dell XPS 13 9365/Schematic/dell_xps13_9365/dell18.png",
     "Dell XPS 13 9365/Schematic/dell_xps13_9365/dell17.png",
-    "Dell XPS 13 9365/Schematic/dell_xps13_9365/dell16.png",
     "Dell XPS 13 9365/Schematic/dell_xps13_9365",
     "Dell XPS 13 9365/Schematic/xps-13-9365-2-in-1-laptop_service-manual_en-us.pdf",
     "Dell XPS 13 9365/Schematic/dell_xps13_9365.zip",
