@@ -1282,7 +1282,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>ScanPolicy</key>
-			<integer>17760515</integer>
+			<integer>0</integer>
 			<key>SecureBootModel</key>
 			<string>Default</string>
 			<key>Vault</key>
@@ -1453,7 +1453,7 @@
 			<key>GlobalConnect</key>
 			<false/>
 			<key>HideVerbose</key>
-			<true/>
+			<false/>
 			<key>JumpstartHotPlug</key>
 			<false/>
 			<key>MinDate</key>
