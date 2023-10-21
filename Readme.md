@@ -7,7 +7,7 @@
   - Memory Controller: Intel Sunrise Point-LP PMC
   - NVMe: WD Black SN750 / SN730
   - Wi-Fi: Intel 8265 / 8275
-  - Bluetooth:
+  - Bluetooth: Intel
   - Audio: Intel Sunrise Point-LP HD Audio
   - Card Reader: Realtek RTS525A
   - Camera: Realtek Intgratd HD Webcam
